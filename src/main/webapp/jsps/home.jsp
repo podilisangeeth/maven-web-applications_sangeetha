@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to SANGEETHA Technologies. tirupathi,Andhra Pradesh,India </h1>
+<h1 align="center">Welcome to Raja Technologies. tirupathi,Andhra Pradesh,India </h1>
 <h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
